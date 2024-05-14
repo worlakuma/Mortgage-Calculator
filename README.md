@@ -1,4 +1,4 @@
-# Mortgage-Calculator
+# Mortgage_Calculator
 This Python script calculates the scheduled monthly payment and total payment for a loan based on user-provided input such as the principal amount, annual interest rate, and total loan period.
 
 ## Input
