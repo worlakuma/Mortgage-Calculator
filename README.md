@@ -17,3 +17,7 @@ Monthly interest rate (r) is calculated by dividing the annual interest rate by 
 Loan period in months (n) is calculated by multiplying the total loan period in years by 12.
 The scheduled monthly loan repayment amount (m) is calculated using the formula for an amortizing loan.
 The scheduled total loan interest and principal payable (total_loan_payable) is calculated by multiplying the scheduled monthly payment by the total number of months.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+https://github.com/worlakuma/Mortgage-Calculator/blob/main/LICENSE
